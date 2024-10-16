@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/0015-3sum) |
+| [0287-find-the-duplicate-number](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -48,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/0202-happy-number) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
