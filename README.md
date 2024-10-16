@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/0015-3sum) |
 | [0141-linked-list-cycle](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/0202-happy-number) |
 ## Sorting
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/0141-linked-list-cycle) |
+## Math
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
