@@ -10,6 +10,7 @@ My DSA Prep Questions
 | [0015-3sum](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/0015-3sum) |
 | [0287-find-the-duplicate-number](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/0287-find-the-duplicate-number) |
 | [0496-next-greater-element-i](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/0496-next-greater-element-i) |
+| [1603-running-sum-of-1d-array](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/1603-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,4 +76,8 @@ My DSA Prep Questions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/0496-next-greater-element-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Mr-RohitNooB/DSA-Questions/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
